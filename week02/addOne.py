@@ -1,5 +1,5 @@
 # addOne.py
-# This program 
+# This program prints out one more than the number that is input
 # author: Charles Barlow
 
 number = int(input('please enter a number:'))
